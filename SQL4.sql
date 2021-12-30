@@ -58,6 +58,3 @@ VALUES(111, 'Pam', 'Beesly', '1988-02-19', 'F', 69000, 106, 3);
 
 
 DROP TRIGGER my_trigger;
-
-
-.
